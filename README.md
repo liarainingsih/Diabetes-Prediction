@@ -30,15 +30,24 @@ Notebook berisikan:
      
 * Cleaning Data 
 * Exploratory Data Analysist (Univariate dan Bivariate)
-* Correlation Column: Income, Education, PhysActivity --> Negative correlation
-                      GenHlth, HighBP, DiffWalk,BMI --> Positive correlation
+* Correlation Column: 
+
+    Income, Education, PhysActivity --> Negative correlation
+    
+    GenHlth, HighBP, DiffWalk,BMI --> Positive correlation
 * Check Outlier:
-    There are outliers in BMI
-    Count of outliers are: 9847
-    There are outliers in MentHlth
-    Count of outliers are: 36208
-    There are outliers in PhysHlth
-    Count of outliers are: 40949 
+    
+        There are outliers in BMI
+    
+        Count of outliers are: 9847
+    
+        There are outliers in MentHlth
+    
+        Count of outliers are: 36208
+    
+        There are outliers in PhysHlth
+    
+        Count of outliers are: 40949 
 * Scaling Data
 * Training and Testing Data
 * Model Random Forest
