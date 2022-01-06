@@ -4,7 +4,8 @@ Prediksi Resiko Diabetes
 Notebook berisikan:
 * Import Library
     Kolom terdiri dari:
-        0   Diabetes_binary       253680 non-null  float64
+    
+        0   Diabetes_binary       253680 non-null  float64 
         1   HighBP                253680 non-null  float64
         2   HighChol              253680 non-null  float64
         3   CholCheck             253680 non-null  float64
